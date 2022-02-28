@@ -1,0 +1,146 @@
+{
+  "uid" : "d3e1b07916833506",
+  "name" : "test_01",
+  "fullName" : "testcases.test_jiaoyu.TestJiaoyu#test_01",
+  "historyId" : "58e1d76dfd06686c6aa7e682511e234f",
+  "time" : {
+    "start" : 1646017511495,
+    "stop" : 1646017511495,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestJiaoyu",
+    "time" : {
+      "start" : 1646017511494,
+      "stop" : 1646017511494,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "all",
+    "time" : {
+      "start" : 1646017511102,
+      "stop" : 1646017511102,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_xunit_setup_method_fixture_TestJiaoyu",
+    "time" : {
+      "start" : 1646017511495,
+      "stop" : 1646017511495,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_TestJiaoyu::0",
+    "time" : {
+      "start" : 1646017511497,
+      "stop" : 1646017511497,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "all::0",
+    "time" : {
+      "start" : 1646017511606,
+      "stop" : 1646017511606,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_xunit_setup_method_fixture_TestJiaoyu::0",
+    "time" : {
+      "start" : 1646017511496,
+      "stop" : 1646017511496,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_jiaoyu"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestJiaoyu"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-BCCIQ6G2"
+  }, {
+    "name" : "thread",
+    "value" : "22536-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_jiaoyu"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3e1b07916833506.json",
+  "parameterValues" : [ ]
+}

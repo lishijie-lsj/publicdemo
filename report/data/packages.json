@@ -1,0 +1,155 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases",
+    "children" : [ {
+      "name" : "test_api",
+      "children" : [ {
+        "name" : "test_01_get_token[a]",
+        "uid" : "cfca40573a07eaca",
+        "parentUid" : "7195a5cafaadd6591a5c29b96dfe2c93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511102,
+          "stop" : 1646017511102,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'成龙'" ]
+      }, {
+        "name" : "test_01_get_token[b]",
+        "uid" : "b33d82f009b7b3dc",
+        "parentUid" : "7195a5cafaadd6591a5c29b96dfe2c93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511105,
+          "stop" : 1646017511105,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'zhengzidan'" ]
+      }, {
+        "name" : "test_01_get_token[c]",
+        "uid" : "af231d5c8be1fb7b",
+        "parentUid" : "7195a5cafaadd6591a5c29b96dfe2c93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511107,
+          "stop" : 1646017511107,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'cai10'" ]
+      }, {
+        "name" : "test_02_kaicixn[name-bali]",
+        "uid" : "97a378917e1eb9ef",
+        "parentUid" : "7195a5cafaadd6591a5c29b96dfe2c93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511110,
+          "stop" : 1646017511110,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'name'", "'bali'" ]
+      }, {
+        "name" : "test_02_kaicixn[age-18]",
+        "uid" : "a72b613c485f54f8",
+        "parentUid" : "7195a5cafaadd6591a5c29b96dfe2c93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511112,
+          "stop" : 1646017511112,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'age'", "'18'" ]
+      }, {
+        "name" : "test_01_get_hotcity[caseinfo0]",
+        "uid" : "5582e35302c247ad",
+        "parentUid" : "7195a5cafaadd6591a5c29b96dfe2c93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511115,
+          "stop" : 1646017511115,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '获取统一接口鉴权码', 'request': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6b11b3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      } ],
+      "uid" : "7195a5cafaadd6591a5c29b96dfe2c93"
+    }, {
+      "name" : "test_api02",
+      "children" : [ {
+        "name" : "test_01_get_token[caseinfo0]",
+        "uid" : "b722c9566da5bf11",
+        "parentUid" : "e5be33d18fa73cf8afac6adb5334f787",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511117,
+          "stop" : 1646017511350,
+          "duration" : 233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '获取统一接口鉴权码', 'request': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6b11b3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      }, {
+        "name" : "test_02_edit_flag[caseinfo0]",
+        "uid" : "d766ed1de63a19e4",
+        "parentUid" : "e5be33d18fa73cf8afac6adb5334f787",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511355,
+          "stop" : 1646017511490,
+          "duration" : 135
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '编辑标签接口', 'request': {'method': 'post', 'url': 'https://api.weixin.qq.com/cgi-bin/tags/update?access_token=', 'data': {'tag': {'id': 134, 'name': 'lsj'}}}, 'validate': [{'equals': {'status_code': 200}}, {'equals': {'errcode': 0}}, {'equals': {'errmsg': 'ok'}}]}" ]
+      } ],
+      "uid" : "e5be33d18fa73cf8afac6adb5334f787"
+    }, {
+      "name" : "test_jiaoyu",
+      "children" : [ {
+        "name" : "test_01",
+        "uid" : "d3e1b07916833506",
+        "parentUid" : "241c12af525a7b29636c302b27cc2769",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511495,
+          "stop" : 1646017511495,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "241c12af525a7b29636c302b27cc2769"
+    }, {
+      "name" : "test_mashang",
+      "children" : [ {
+        "name" : "test_baili[caseinfo0]",
+        "uid" : "359208b257333da4",
+        "parentUid" : "ab3dd4e9dca314ac7ad0242ce2f199ea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646017511500,
+          "stop" : 1646017511602,
+          "duration" : 102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': '获取统一接口鉴权码', 'request': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6b11b3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+      } ],
+      "uid" : "ab3dd4e9dca314ac7ad0242ce2f199ea"
+    } ],
+    "uid" : "141fa05f02bf329144b0086cf92149a8"
+  } ]
+}

@@ -1,0 +1,149 @@
+{
+  "uid" : "5582e35302c247ad",
+  "name" : "test_01_get_hotcity[caseinfo0]",
+  "fullName" : "testcases.test_api.TestApi#test_01_get_hotcity",
+  "historyId" : "b392e3314b5300eb49c692116e6d6ee2",
+  "time" : {
+    "start" : 1646017511115,
+    "stop" : 1646017511115,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "all",
+    "time" : {
+      "start" : 1646017511102,
+      "stop" : 1646017511102,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_xunit_setup_class_fixture_TestApi",
+    "time" : {
+      "start" : 1646017511102,
+      "stop" : 1646017511102,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_xunit_setup_method_fixture_TestApi",
+    "time" : {
+      "start" : 1646017511115,
+      "stop" : 1646017511115,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "all::0",
+    "time" : {
+      "start" : 1646017511606,
+      "stop" : 1646017511606,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_xunit_setup_class_fixture_TestApi::0",
+    "time" : {
+      "start" : 1646017511116,
+      "stop" : 1646017511116,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_xunit_setup_method_fixture_TestApi::0",
+    "time" : {
+      "start" : 1646017511115,
+      "stop" : 1646017511115,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestApi"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-BCCIQ6G2"
+  }, {
+    "name" : "thread",
+    "value" : "22536-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "caseinfo",
+    "value" : "{'name': '获取统一接口鉴权码', 'request': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6b11b3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5582e35302c247ad.json",
+  "parameterValues" : [ "{'name': '获取统一接口鉴权码', 'request': {'method': 'get', 'url': 'https://api.weixin.qq.com/cgi-bin/token', 'data': {'grant_type': 'client_credential', 'appid': 'wx6b11b3efd1cdc290', 'secret': '106a9c6157c4db5f6029918738f9529d'}}, 'validate': 'None'}" ]
+}

@@ -1,0 +1,101 @@
+[ {
+  "uid" : "cfca40573a07eaca",
+  "name" : "test_01_get_token[a]",
+  "time" : {
+    "start" : 1646017511102,
+    "stop" : 1646017511102,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d766ed1de63a19e4",
+  "name" : "test_02_edit_flag[caseinfo0]",
+  "time" : {
+    "start" : 1646017511355,
+    "stop" : 1646017511490,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a72b613c485f54f8",
+  "name" : "test_02_kaicixn[age-18]",
+  "time" : {
+    "start" : 1646017511112,
+    "stop" : 1646017511112,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3e1b07916833506",
+  "name" : "test_01",
+  "time" : {
+    "start" : 1646017511495,
+    "stop" : 1646017511495,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5582e35302c247ad",
+  "name" : "test_01_get_hotcity[caseinfo0]",
+  "time" : {
+    "start" : 1646017511115,
+    "stop" : 1646017511115,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b722c9566da5bf11",
+  "name" : "test_01_get_token[caseinfo0]",
+  "time" : {
+    "start" : 1646017511117,
+    "stop" : 1646017511350,
+    "duration" : 233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "359208b257333da4",
+  "name" : "test_baili[caseinfo0]",
+  "time" : {
+    "start" : 1646017511500,
+    "stop" : 1646017511602,
+    "duration" : 102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af231d5c8be1fb7b",
+  "name" : "test_01_get_token[c]",
+  "time" : {
+    "start" : 1646017511107,
+    "stop" : 1646017511107,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97a378917e1eb9ef",
+  "name" : "test_02_kaicixn[name-bali]",
+  "time" : {
+    "start" : 1646017511110,
+    "stop" : 1646017511110,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b33d82f009b7b3dc",
+  "name" : "test_01_get_token[b]",
+  "time" : {
+    "start" : 1646017511105,
+    "stop" : 1646017511105,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

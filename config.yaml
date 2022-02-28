@@ -1,0 +1,12 @@
+url:
+  base_url: http://127.0.0.1:5000 #基于Flask自定义的接口环境
+
+log：
+  log_name: log
+  file_log_level: info
+  file_log_format: [%(acstime)s]
+  console_log_level: info
+  console_log_format:
+
+report:
+  report_name: report_

@@ -1,0 +1,10 @@
+-
+  name: 编辑标签接口
+  request:
+    method: post
+    url: https://api.weixin.qq.com/cgi-bin/tags/update?access_token=
+    data: {"tag":{"id":134,"name":"lsj"}}
+  validate:
+  -     equals: {status_code: 200}
+  -     equals: {errcode: 0}
+  -     equals: {errmsg: ok}
